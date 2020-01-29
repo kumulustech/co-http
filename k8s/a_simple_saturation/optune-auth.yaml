@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: optune-auth
+type: Opaque
+data:
+  token: NWIweFJpOWQyR3U0ZUZOejZMeUc5akdHWW5IZGU3OTlYdUZQCg==
