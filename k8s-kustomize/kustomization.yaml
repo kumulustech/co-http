@@ -1,0 +1,9 @@
+namePrefix: kst-
+
+resources:
+- c1.yaml
+- c2.yaml
+- rbac.yaml
+- servo.yaml
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
