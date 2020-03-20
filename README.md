@@ -1,5 +1,4 @@
 # co-http
-
 A small http server for imitating simple workloads.
 
 Build a container with the server:
